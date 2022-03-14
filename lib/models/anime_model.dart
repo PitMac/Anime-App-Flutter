@@ -1,6 +1,3 @@
-// ignore: duplicate_ignore
-// ignore_for_file: constant_identifier_names
-
 import 'dart:convert';
 
 TrendingResponse trendingResponseFromJson(String str) =>
